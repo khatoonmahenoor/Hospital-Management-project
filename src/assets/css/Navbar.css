@@ -1,0 +1,17 @@
+nav{
+    color: #211C6A;
+}
+li{
+    font-size: 18px;
+}
+.navbar-brand {
+    color: #65B741;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navbar-nav{
+    margin-left: 200px;
+}
+
+
+

@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,67,1) 0%, #a5df7c 97%);
+}
+form{
+    background-color: white !important;
+    border-radius: 15px;
+    outline: auto;
+
+}
+.w-50{
+    width: 450px !important;
+}
+.container{
+    margin-top: 70px;
+}

@@ -1,0 +1,41 @@
+  .time {
+    font-weight: bold;
+    font-size: larger;
+  }
+
+  #datePicker{
+    width: 170px;
+    /* margin-right: 50px; */
+    /* padding: 10px; */
+  }
+ 
+/* .form .fa-search{
+
+    position: absolute;
+    left: 20px;
+    color: #9ca3af;
+
+} */
+
+/* .left-pan{
+    padding-left: 7px;
+} */
+
+/* .left-pan i{
+   
+   padding-left: 10px;
+} */
+
+.form-input{
+    margin-top: 12px;
+    margin-bottom: 5px;
+    height: 40px;
+    text-indent: 33px;
+    border-radius: 10px;
+}
+
+.form-input:focus{
+
+    box-shadow: none;
+    border:none;
+}
